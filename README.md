@@ -16,7 +16,11 @@ Traduction française amateur complète du jeu **Arco** (édité par Panic), ver
 | Chansons de fin (sous-titres) | ✅ |
 | Bandeau de début de combat (« SURPRISE » / « SURPRIS ») | ✅ |
 
+################################################################
+
 Version du jeu testée : `2025.08.11-01-PC` (Steam, Windows).
+
+################################################################
 
 La traduction n'a pas encore été relue en jouant l'intégralité du jeu : des coquilles ou des textes qui débordent de leur cadre peuvent subsister. N'hésite pas à les signaler (voir plus bas).
 

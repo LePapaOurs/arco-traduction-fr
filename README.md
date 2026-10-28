@@ -1,4 +1,4 @@
-# Arco — Traduction française (non officielle)
+# Arco - Traduction française (non officielle) -
 
 Traduction française amateur complète du jeu **Arco** (édité par Panic), version Steam.
 

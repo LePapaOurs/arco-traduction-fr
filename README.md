@@ -1,6 +1,12 @@
-# Arco - Traduction française (non officielle) -
+<img align="left" width="300" alt="Arco" src="https://github.com/user-attachments/assets/5bf011d6-11d1-4b83-9338-ba16d3bc5fc9" />
 
-Traduction française amateur complète du jeu **Arco** (édité par Panic), version Steam.
+### Arco – Traduction française (non officielle)
+
+Traduction française amateur complète du jeu **Arco** (édité par Panic).
+
+**Version Steam**
+
+<br clear="left"/>
 
 ## Contenu
 
